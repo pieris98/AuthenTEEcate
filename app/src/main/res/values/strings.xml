@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AuthenTEEcate</string>
+    <string name="e_mail_address">E-mail Address</string>
+    <string name="signUp">Don\'t have an account yet? Click here!</string>
+    <string name="signIn">Already have an account? Click here to Sign In!</string>
+    <string name="signInTitle">Sign-in to your account</string>
+    <string name="registerButton">Generate key and register!</string>
+    <string name="registerTitle">Enter the server\'s IP address</string>
+    <string name="registerDetails">Enter your details</string>
+    <string name="enter_e_mail">Enter your e-mail address</string>
+    <string name="enter_ip">e.g. 127.0.0.1</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="confirm_password">Confirm your password</string>
+    <string name="signOut">Sign Out</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome!</string>
+</resources>
